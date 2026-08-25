@@ -1,6 +1,9 @@
+# Universal World Access Whitelist - hashed v1
+# One uwh1 token per authorized VRChat display name.
+# Do not put plaintext names in this file.
+
 uwh1:0a9461b14e0f1af3464cd86f2b9c6deb
 uwh1:847fcbbaffa3d824a8d1590af8a561a9
-uwh1:63900d97c17e659231c2ab812ad9dca4
 uwh1:0a035a4984d19b7788997c701070ce2b
 uwh1:41c7b1fe9f5af337b3d45ac22cf9e795
 uwh1:be13e58ba5cb73c929dcf2ef6db7cea2
